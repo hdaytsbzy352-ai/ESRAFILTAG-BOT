@@ -53,7 +53,7 @@ https://rubika.ir/pov_YaDeGaR/BEJIDBJBBECIAFEF
 قوانین:
 https://rubika.ir/pov_YaDeGaR/BEJJBHJFAJIGIFEF
 """
-        send_message(chat_id, خوش آمدید 💙)
+        send_message(chat_id, خوش آمدید)
 
     return "ok"
 
